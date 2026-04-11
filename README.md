@@ -4,10 +4,9 @@
 
 > "大胆的假设，小心的求证。"
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/hushi-skill)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/hushi-skill/pulls)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将胡适的实验主义精神与温和理性的论说风格蒸馏为 Claude Code 可用的写作 skill，让 AI 以渐进改良的态度分析问题。**
 
 </div>
@@ -102,12 +101,12 @@ hushi-skill/
 
 ---
 
-## 许可证
-
-本项目基于 [MIT 许可证](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>以胡适之理，析当代之惑。</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
