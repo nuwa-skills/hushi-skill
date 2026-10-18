@@ -5,9 +5,9 @@
 > "大胆的假设，小心的求证。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将胡适的实验主义精神与温和理性的论说风格蒸馏为 Claude Code 可用的写作 skill，让 AI 以渐进改良的态度分析问题。**
+**将胡适的实验主义精神与温和理性的论说风格蒸馏为 Claude Code 等 Agent Skills 客户端可用的写作 skill，让 AI 以渐进改良的态度分析问题。**
 
 </div>
 
